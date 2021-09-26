@@ -16,7 +16,7 @@ int main() // 리턴값 정수형 메인함수 인자값 0
     if (num == '+') //위에서 받은 num이 +와 같으면 
     {    
         //printf 출력 아래거 위에서 입력받은 값 a+b
-        printf("더하기 값\n");    
+        printf("더더하기 값\n");    
         printf("%d%c%d=%d\n", a, num, b, a + b);
     }
     else if (num == '-')
